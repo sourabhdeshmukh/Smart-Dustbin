@@ -35,3 +35,10 @@ The methodology will be adopted as follows:
 > * The concern person would be having the application to see the data sent by ultrasonic sensor.
 >
 > * Though the person would know when to change or clear the dustbin.
+>
+### Result
+> * The result we are going to recieve would be the processed data of the Arduino attached to the dustbin.
+> * The result would be displayed on the phone of the concerned person.
+> * This project will also result into a better and clean environment.
+> * This project will also lead to a better coordination in cleanliness system of small campuses.
+> * This project will lead to a environment where distance between human and technology would be less.
