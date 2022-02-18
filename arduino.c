@@ -1,8 +1,8 @@
 
 #include<ESP8266WiFi.h>
 #include<FirebaseArduino.h>
-#define WIFI_SSID "***ARMY***"
-#define WIFI_PASS "greatindia"
+#define WIFI_SSID "garubin"
+#define WIFI_PASS "garuka662"
 #define FB_HOST "evsproj-636ac.firebaseio.com"
 #define FB_AUTH "TgF6QISwOn7o0YP4zRR1EtZ0wGsUKJBcLrUoSH5n"
 
